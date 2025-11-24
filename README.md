@@ -103,3 +103,4 @@ This project is licensed under the MIT license - see the LICENSE file for detail
 If you have questions or need help, feel free to:
 - Open an issue on this repository  
 - Connect with me on LinkedIn: https://www.linkedin.com/in/radwanhefny  
+Note: The dataset `medical_examination.csv` is included in the repo but may not be viewable in GitHub's file preview due to its size.
