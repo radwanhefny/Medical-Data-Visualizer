@@ -34,12 +34,15 @@ python main.py
 ### Categorical Plot
 | Figure | Result |
 |--------|--------|
-| ![Figure 1](examples/Figure_1.png) | ![Result 1](examples/Result_1.png) |
+| ![Figure 1](https://github.com/radwanhefny/Medical-Data-Visualizer/raw/main/examples/Figure_1.png) | ![Result 1](https://github.com/radwanhefny/Medical-Data-Visualizer/raw/main/examples/Result_1.png) |
 
 ### Heatmap
 | Figure | Result |
 |--------|--------|
-| ![Figure 2](examples/Figure_2.png) | ![Result 2](examples/Result_2.png) |
+| ![Figure 2](https://github.com/radwanhefny/Medical-Data-Visualizer/raw/main/examples/Figure_2.png) | ![Result 2](https://github.com/radwanhefny/Medical-Data-Visualizer/raw/main/examples/Result_2.png) |
+
+
+
 
 ## 🗂️ Project Structure
 ```
